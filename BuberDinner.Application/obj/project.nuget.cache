@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "h86ZoMSJ9DSGHZPbXs9eoBLBXVryTLQwfBb+9oEYsQEKJaZg4yRM4KD6CGKUcRGcD0qwDGzxvhWm9wOixHW9ZQ==",
+  "dgSpecHash": "UoOhMGy/bAMpBEaEDCX1ts7j3sIocvj5QswrdNVe0q/RzHm3LfMMFWcZJ7ERYDNmpDgx8eWAEmkyspcJ1xf7Lg==",
   "success": true,
   "projectFilePath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
