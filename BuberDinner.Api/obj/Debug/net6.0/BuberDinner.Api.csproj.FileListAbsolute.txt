@@ -28,3 +28,8 @@ C:\Users\dimit\devel\DinnersApp\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Bub
 C:\Users\dimit\devel\DinnersApp\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.pdb
 C:\Users\dimit\devel\DinnersApp\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb
 C:\Users\dimit\devel\DinnersApp\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\Users\dimit\devel\DinnersApp\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dimit\devel\DinnersApp\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dimit\devel\DinnersApp\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dimit\devel\DinnersApp\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dimit\devel\DinnersApp\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
