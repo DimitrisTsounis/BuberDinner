@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {}
+    "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "outputPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

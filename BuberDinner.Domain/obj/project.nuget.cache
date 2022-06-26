@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6PuyPCw1AVupmDlKVhhF8R/E48fM8y/dG6osw/93UMotDqRePnvqla74KDwJ2D7ddOLupYFZ+F90KCyIZws0Ow==",
+  "dgSpecHash": "8K6q74N+TMw1cR94TW1sNhz0331n/KPcKBH3eRcj5CL7ZOD6LJrCFLD/ZUS3X+MuWdz3J6EFd5kNepgfx642XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "projectFilePath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

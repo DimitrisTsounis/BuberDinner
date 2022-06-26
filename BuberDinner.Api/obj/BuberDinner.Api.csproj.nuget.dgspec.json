@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
+    "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
+    "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "projectUniqueName": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
         "projectName": "BuberDinner.Api",
-        "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Api\\obj\\",
+        "outputPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               },
-              "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
-                "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+              "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+                "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
               },
-              "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+              "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\obj\\",
+        "outputPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-                "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+              "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+                "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
               }
             }
           }
@@ -135,14 +135,14 @@
         }
       }
     },
-    "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "outputPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -189,14 +189,14 @@
         }
       }
     },
-    "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "outputPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -243,14 +243,14 @@
         }
       }
     },
-    "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+    "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "projectName": "BuberDinner.Infrastructure",
-        "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -267,8 +267,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "C:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "c:\\Users\\dimit\\devel\\DinnersApp\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               }
             }
           }
